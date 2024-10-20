@@ -16,6 +16,11 @@ Next, you need to push all the embeddings which was processed by [Magiclens](htt
 ```
 python insert_data.py
 ```
+Then, the pretrained model must be downloaded by running
+```
+# You have to install gsutil. It is quite straightforward.
+gsutil cp -R gs://gresearch/magiclens/models ./
+```
 Everything you need is ready nowwwwwww. Let's run app.py 
 ```
 streamlit run streamlit_app.py
