@@ -26,4 +26,15 @@ Everything you need is ready nowwwwwww. Let's run app.py
 streamlit run streamlit_app.py
 ```
 ## Example 
-loading....
+Example 1: 
+
+![Screenshot from 2024-10-21 14-10-28](https://github.com/user-attachments/assets/61907a83-32ae-4d0e-b3c3-07df4b33c27e)
+
+Example 2: 
+
+![Screenshot from 2024-10-21 14-25-26](https://github.com/user-attachments/assets/7d07dd7b-8e5b-477d-a728-0f5592ec2c48)
+
+
+Example 3: 
+
+![Screenshot from 2024-10-21 14-12-51](https://github.com/user-attachments/assets/bb2723ea-ac71-4512-b54f-9e3686c722dd)
